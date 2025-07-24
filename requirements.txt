@@ -3,4 +3,5 @@ scikit-learn==1.5.0
 pandas==2.2.2
 nltk==3.8.1
 pytesseract==0.3.10
-Pillow==9.5.0
+Pillow==9.5.0  # Changed this line
+scipy==1.13.1
